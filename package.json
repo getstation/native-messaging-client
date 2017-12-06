@@ -8,7 +8,7 @@
     "test": "node test.js"
   },
   "author": "Hugo Mano",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "strip-json-comments": "^2.0.1",
     "winreg": "git+https://github.com/tgds/node-winreg.git"
