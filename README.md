@@ -1,7 +1,7 @@
 Native Messaging Client
 ==========
 
-Communicate with apps thought the Native Messaging API
+Communicate with apps trough the Native Messaging API
 
 
 Install
